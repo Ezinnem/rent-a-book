@@ -1,0 +1,28 @@
+{
+  "pages": [
+    {
+      "id": "Rentals",
+      "isDefault": false
+    },
+    {
+      "id": "Books",
+      "isDefault": false
+    },
+    {
+      "id": "Students",
+      "isDefault": true
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#C7F3F0",
+  "icon": "mug",
+  "unpublishedAppLayout": {
+    "type": "FLUID"
+  },
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "isManualUpdate": false,
+  "deleted": false
+}
